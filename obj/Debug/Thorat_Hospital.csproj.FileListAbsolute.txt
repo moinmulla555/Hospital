@@ -1,0 +1,11 @@
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\bin\Debug\Thorat_Hospital.exe.config
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\bin\Debug\Thorat_Hospital.exe
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\bin\Debug\Thorat_Hospital.pdb
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.csproj.AssemblyReference.cache
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.Form1.resources
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.Properties.Resources.resources
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.csproj.GenerateResource.cache
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.csproj.CoreCompileInputs.cache
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.exe
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.pdb
+F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.New_Patient.resources
