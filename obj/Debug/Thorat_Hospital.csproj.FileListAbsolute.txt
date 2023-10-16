@@ -9,3 +9,14 @@ F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.csp
 F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.exe
 F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.pdb
 F:\Thorat Hospital\Thorat_Hospital\Thorat_Hospital\obj\Debug\Thorat_Hospital.New_Patient.resources
+C:\Users\HP\source\repos\Hospital\bin\Debug\Thorat_Hospital.exe.config
+C:\Users\HP\source\repos\Hospital\bin\Debug\Thorat_Hospital.exe
+C:\Users\HP\source\repos\Hospital\bin\Debug\Thorat_Hospital.pdb
+C:\Users\HP\source\repos\Hospital\obj\Debug\Thorat_Hospital.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Hospital\obj\Debug\Thorat_Hospital.Form1.resources
+C:\Users\HP\source\repos\Hospital\obj\Debug\Thorat_Hospital.New_Patient.resources
+C:\Users\HP\source\repos\Hospital\obj\Debug\Thorat_Hospital.Properties.Resources.resources
+C:\Users\HP\source\repos\Hospital\obj\Debug\Thorat_Hospital.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Hospital\obj\Debug\Thorat_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hospital\obj\Debug\Thorat_Hospital.exe
+C:\Users\HP\source\repos\Hospital\obj\Debug\Thorat_Hospital.pdb
