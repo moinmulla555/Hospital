@@ -48,7 +48,7 @@ namespace Thorat_Hospital
         {
 
 
-            if(cell<0)
+            if(cell<=0)
             { 
             try
             {
@@ -112,10 +112,17 @@ namespace Thorat_Hospital
 
 
             string command = "delete from Tbl_Patients where Patient_Id=" + cell + "";
-            db.Doadd(command);
-            MessageBox.Show("Deleted Succefully");
-            lodadata();
-            cell = 0;
+
+            DialogResult dr = MessageBox.Show("Are You Sure?", "Confirmation?", MessageBoxButtons.YesNo);
+            if (dr==DialogResult.Yes)
+            {
+                db.Doadd(command);
+                MessageBox.Show("Deleted Succefully");
+                lodadata();
+                cell = 0;
+
+            }
+           
         }
 
         private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)

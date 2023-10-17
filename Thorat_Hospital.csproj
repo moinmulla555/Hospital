@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Checkup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checkup.Designer.cs">
+      <DependentUpon>Checkup.cs</DependentUpon>
+    </Compile>
     <Compile Include="Dbhelper.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
